@@ -1,0 +1,15 @@
+/*Jack Spencer*/
+
+body {
+  background-color: #6aa8b6;
+  color: #d61a4f;
+  font-family: monospace;
+}
+.navigation {
+  text-decoration: none;
+  color: brown;
+}
+
+h2 {
+  color: #f3dda0;
+}
